@@ -16,10 +16,10 @@
   <li>Password: A password input field for the user's password, with validation to ensure that the input is at least 8 characters long.</li>
 </ui>
 
-![snap_registration succeful](https://github.com/akanshakaduskar/html-css-js-registration-form/assets/156501496/58ee6ef7-2ae6-4f0f-aaa9-67422a691167)
-
 <h1>Sign Up Successful</h1>
 <p>This repository contains the HTML, CSS, and JavaScript code for a simple "Sign Up Successful" page. The page displays a message to the user indicating that their account has been successfully created.</p>
+
+![snap_registration succeful](https://github.com/akanshakaduskar/html-css-js-registration-form/assets/156501496/58ee6ef7-2ae6-4f0f-aaa9-67422a691167)
 
 <h2>Form Fields</h2>
 <p>The "Sign Up Successful" page does not include any form fields. It is a simple page that displays a message to the user.</p>
@@ -37,4 +37,5 @@
   <li>MongoDB Integration</li>
 </ui>
 
-
+<h2>Contact</h2>
+<p>If you have any questions or feedback, please contact akanshakaduskar@gmail.com.</p>
